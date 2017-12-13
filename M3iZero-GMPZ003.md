@@ -5,8 +5,8 @@ different from it's predecessor.
 
 ## Hardware
 
-<a href="gmpz003/PCB.jpg" target="_blank"><img src="PCB.jpg" alt="Image of the carts PCB" width="256px" height="256px"></a>
-<a href="gmpz003/FPGA.jpg" target="_blank"><img src="FPGA.jpg" alt="Image of the FPGA" width="256px" height="256px"></a>
+<a href="gmpz003/PCB.jpg" target="_blank"><img src="gmpz003/PCB.jpg" alt="Image of the carts PCB" width="256px" height="256px"></a>
+<a href="gmpz003/FPGA.jpg" target="_blank"><img src="gmpz003/FPGA.jpg" alt="Image of the FPGA" width="256px" height="256px"></a>
 
 ### Flash Memory
 
